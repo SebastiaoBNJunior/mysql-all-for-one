@@ -1,2 +1,1 @@
-SELECT COUNT(product_name) AS total_registros
-FROM products;
+SELECT COUNT(product_name) FROM products;
